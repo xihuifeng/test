@@ -8,6 +8,6 @@
  */
 
 echo "hello word~";
-echo "测试文件测试文件";
+echo "ceshi wenjian";
 
 ?>
